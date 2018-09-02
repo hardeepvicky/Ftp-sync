@@ -1,4 +1,4 @@
-# Git to FTP
+# FTP Sync
 A tool for sync local changes  to FTP Server
 
 # How to Use
